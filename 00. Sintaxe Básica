@@ -1,0 +1,5 @@
+#print("Meu primeiro codigo python")
+#print("Meu segundo codigo python")
+
+if 11 > 10:
+    print("Verdadeiro")
